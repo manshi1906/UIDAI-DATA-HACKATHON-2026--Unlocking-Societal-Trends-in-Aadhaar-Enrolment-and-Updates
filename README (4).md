@@ -399,11 +399,7 @@ Open a Pull Request
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-📧 Contact
-Project Maintainer: Ayushman sikdert
-Email: ayushmansikder.ai@gmail.com
-GitHub: https://github.com/yourusername
-LinkedIn: [Your Profile](https://www.linkedin.com/in/ayushman-sikder-9884382b1/)
+
 
 🔮 Future Enhancements
 
