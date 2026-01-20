@@ -395,34 +395,8 @@ Open a Pull Request
 
 
 
-📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
 
 
-
-🔮 Future Enhancements
-
-
-Web dashboard interface
-
-
-Real-time data updates
-
-
-Machine learning predictions
-
-
-API integration
-
-
-Mobile application
-
-
-PowerPoint export
-
-
-Automated email reports
 
 
 
